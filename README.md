@@ -3,8 +3,8 @@
 
 
 
-- 🌸 Estudando HTML,CSS e Javascript
-- 🌸 Pronouns: ele/ela
+- 🌸 Estudando HTML, CSS e Javascript
+- 🌸 Pronomes: ele/ela
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=giovannacortes&show_icons=true&count_private=true&hide_border=true&title_color=AD5784&icon_color=D08BAF&text_color=c9d1d9&bg_color=0d1117" alt="giovannacortes" /> 
@@ -32,9 +32,7 @@ experiências e conhecimentos. Além disso, a Vacuum também tem como objetivo
 fornecer um ambiente de aprendizado, onde os membros podem aprender e ensinar
 uns aos outros, através de interação, eventos, workshops e cursos.
 
-Atualmente atuo como Discord Lead na Vacuum, onde sou responsável por
-coordenar a equipe de desenvolvimento de bots e ferramentas para a comunidade,
-além de desenvolver e manter os bots e ferramentas da Vacuum.
+Atualmente atuo como Vice Líder da equipe de moderadores na Vacuum, onde minha equipe é responsável pelo zelo da comunidade, garantindo que todas as regras sejam cumpridas e respeitadas. Além de promover o servidor e ajudar novos membros a se adaptarem ao ambiente, oferecendo suporte sobre os canais da comunidade, regras e moderando os canais de texto e voz. Sempre acolhendo os membros de forma amistosa e inclusiva, inserindo-os nos assuntos em pauta e orientando-os sobre a comunidade.
 
 Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a
 Vacuum ou queira participar da comunidade.
