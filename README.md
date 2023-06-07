@@ -1,7 +1,7 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F576BA&height=120&section=header"/> <img src="https://media.tenor.com/qvCwTpl0zTcAAAAC/ghost-in-the-shell-kokaku-kidotai.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;"> 
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F575C0&height=120&section=header"/> <img width="40%" src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;"> 
 
 
-### Olá! Eu sou Giovanna Cortês.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=F78CDD&center=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a></div>
 
 
 - 🌸 Estudando HTML, CSS e Javascript
@@ -21,7 +21,7 @@
 <div>  
   <a href = "mailto:giovanna.r.cortes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-cort%C3%AAs-639155276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.twitch.tv/nanaairi" target="_blank"><img src="https://img.shields.io/twitch/status/Gaules?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&labelColor=1c1917&label=status" target="_blank"></a>
 </div>
 
   ## 👨‍💻 Vacuum Discord
