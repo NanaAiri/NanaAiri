@@ -7,8 +7,8 @@
 - 🌸 Pronomes: ele/ela
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=giovannacortes&show_icons=true&count_private=true&hide_border=true&title_color=AD5784&icon_color=D08BAF&text_color=c9d1d9&bg_color=0d1117" alt="giovannacortes" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacortes&layout=compact&hide_border=true&title_color=AD5784&text_color=D08BAF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nanaairi&show_icons=true&count_private=true&hide_border=true&title_color=AD5784&icon_color=D08BAF&text_color=c9d1d9&bg_color=0d1117" alt="nanaairi" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanaairi&layout=compact&hide_border=true&title_color=AD5784&text_color=D08BAF&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
