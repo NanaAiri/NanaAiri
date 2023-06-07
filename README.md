@@ -1,6 +1,7 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F576BA&height=120&section=header"/> <img src="https://media.tenor.com/qvCwTpl0zTcAAAAC/ghost-in-the-shell-kokaku-kidotai.gif" alt="Hello world" align="center"><hr style="border: 1px solid black;"> 
+
+
 ### Olá! Eu sou Giovanna Cortês.
-
-
 
 
 - 🌸 Estudando HTML, CSS e Javascript
