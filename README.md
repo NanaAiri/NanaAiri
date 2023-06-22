@@ -21,7 +21,7 @@
 <div>  
   <a href = "mailto:giovanna.r.cortes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-cort%C3%AAs-639155276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/nanaairi" target="_blank"><img src="https://img.shields.io/twitch/status/Gaules?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&labelColor=1c1917&label=status" target="_blank"></a>
+  <a href="https://www.twitch.tv/nanaairi" target="_blank"><img src="https://img.shields.io/twitch/status/nanaairi?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&labelColor=1c1917&label=status" target="_blank"></a>
 </div>
 
   ## 👨‍💻 Vacuum Discord
