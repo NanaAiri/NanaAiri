@@ -24,26 +24,7 @@
   <a href="https://www.twitch.tv/nanaairi" target="_blank"><img src="https://img.shields.io/twitch/status/nanaairi?logo=twitch&logoColor=white&style=for-the-badge&color=9146FF&labelColor=1c1917&label=status" target="_blank"></a>
 </div>
 
-  ## 👨‍💻 Vacuum Discord
-
-A [Vacuum](https://discord.gg/vacuum) é uma comunidade de programação e tecnologia,
-onde o objetivo é fornecer um networking com uma comunidade de desenvolvedores
-de diversas áreas e em diversos níveis de carreira, para que possam trocar
-experiências e conhecimentos. Além disso, a Vacuum também tem como objetivo
-fornecer um ambiente de aprendizado, onde os membros podem aprender e ensinar
-uns aos outros, através de interação, eventos, workshops e cursos.
-
-Atualmente atuo como Vice Líder da equipe de moderadores na Vacuum, onde minha equipe é responsável pelo zelo da comunidade, garantindo que todas as regras sejam cumpridas e respeitadas. Além de promover o servidor e ajudar novos membros a se adaptarem ao ambiente, oferecendo suporte sobre os canais da comunidade, regras e moderando os canais de texto e voz. Sempre acolhendo os membros de forma amistosa e inclusiva, inserindo-os nos assuntos em pauta e orientando-os sobre a comunidade.
-
-Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a
-Vacuum ou queira participar da comunidade.
-
+ 
 <div align='center'>
-
- [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
- [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
-
- [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
 
 ---
